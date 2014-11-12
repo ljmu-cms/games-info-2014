@@ -1,7 +1,7 @@
-Games Info 2014
-===============
+#Games Info 2014
 
-## Introduction
+### Introduction
+
 1. School Overview
   1. BSc and MCOMP courses (new for 2015)
     1. Computer Games Development
@@ -52,7 +52,9 @@ Games Info 2014
   1. Networking
   1. Security
   1. Applied Computing
-##Games Projects
+
+### Games Projects
+
 1. MAGIC Games Group
   1. Multimedia, Animation, Games, Interactive, Creators
   1. Newly started, directed by students
@@ -63,6 +65,8 @@ Games Info 2014
 1. Homura: http://java.cms.livjm.ac.uk/homura/index.php
 1. Gesture Programming or maybe Games Jam.
 1. +1?
-##Fin
+
+### Fin
+
 1. Links and summary slide
 
