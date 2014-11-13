@@ -50,9 +50,14 @@ table {
 }
 
 #title {
-	/*background-image: url('../images/background.png');*/
+	background-image: url('../images/games.png');
 	background-repeat: no-repeat;
-	background-size: auto 100%;
+	background-size: 100% auto;
+	background-position: 0% 100%;
+}
+
+#title h2 {
+	padding-bottom: 10px;
 }
 
 .alicebob {
