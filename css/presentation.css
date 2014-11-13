@@ -85,9 +85,10 @@ table {
 	display: block;
 	float: center;
 	width: 600px;
+	margin-top: 40px;
 	margin-left: auto;
 	margin-right: auto;
-	margin-bottom: 80px;
+	margin-bottom: 40px;
 }
 
 #biennial {
@@ -134,10 +135,24 @@ table {
 	background-size: 75% auto;
 }
 
+#collaboration {
+	background-image: url('../images/externallogos.png');
+	background-repeat: no-repeat;
+	background-position: 70% 70%;
+	background-size: 85% auto;
+}
+
 #protect {
 	display: inline;
 	height: 200px;
 	margin-top: 40px;
+}
+
+#studentgames {
+	height: 200px;
+	margin-left: 0px;
+	margin-right: auto;
+	margin-top: 20px;
 }
 
 #lever {
@@ -342,7 +357,7 @@ a:focus {
 
 	width: 980px;
 	height: 756px;
-	padding: 120px 60px;
+	padding: 100px 60px;
 
 	background-color: rgba(255, 255, 255, .3);
 	border: 1px solid rgba(0, 0, 0, .3);
