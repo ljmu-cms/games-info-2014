@@ -435,7 +435,7 @@ a:focus {
 	display: block
 }
 
-.impress-on-title .hint {
+.impress-on-title2 .hint {
 	opacity: 1;
 
 	-webkit-transform: translateY(0px);
@@ -460,7 +460,8 @@ a:focus {
 }
 
 .fullimage h2 {
-	display: span;
+/*	display: span; */
+	display: none;
 	background: rgba(255,255,255,0.5);
 	border-radius: 10px;
 	padding-left: 10px;
